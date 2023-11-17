@@ -1,0 +1,12 @@
+<svg width="73" height="73" viewBox="0 0 73 73" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="36.0823" cy="36.2385" r="36.0823" fill="#DD2020" fill-opacity="0.4"/>
+<circle cx="36.0834" cy="36.2387" r="27.6088" fill="#DD2020"/>
+<path d="M40.9091 46.6364H26C25.4477 46.6364 25 46.1886 25 45.6364V24C25 23.4477 25.4477 23 26 23H43.0909C43.6432 23 44.0909 23.4477 44.0909 24V34.8182" stroke="white" stroke-width="1.5"/>
+<path d="M28.1826 27.0908H34.5463" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M28.1826 29.8184H40.9099" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M28.1826 32.5459H40.9099" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="44.5454" cy="39.8178" r="4.70455" stroke="white" stroke-width="1.5"/>
+<path d="M44.1952 37.8721C44.4762 37.8215 44.7649 37.8324 45.0414 37.904C45.3179 37.9756 45.5756 38.1063 45.7967 38.287C46.0179 38.4677 46.1973 38.6942 46.3226 38.9508C46.4478 39.2075 46.516 39.4883 46.5224 39.7738" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.8562 41.7708C44.5741 41.8157 44.2857 41.7989 44.0107 41.7216C43.7358 41.6444 43.4808 41.5085 43.2634 41.3233C43.046 41.1381 42.8713 40.9079 42.7513 40.6488C42.6313 40.3896 42.5689 40.1075 42.5684 39.8219" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.3047 43.4551V49.3076C41.3047 49.6639 41.7355 49.8424 41.9875 49.5904L44.2037 47.3743C44.3599 47.2181 44.6131 47.2181 44.7693 47.3743L46.9855 49.5904C47.2375 49.8424 47.6683 49.6639 47.6683 49.3076V43.4551" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
